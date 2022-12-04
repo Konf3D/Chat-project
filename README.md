@@ -10,6 +10,6 @@
 1. Интерфейс пользователя</br>
 ![1 drawio](https://user-images.githubusercontent.com/93376815/205482009-0e345a30-f39b-4610-9883-d76a927df0af.svg)</br>
 2. Объекты программы</br>
-![2 drawio (1)](https://user-images.githubusercontent.com/93376815/205482165-038bb480-7c60-4bc4-8111-bb2a6f41c1c6.svg)
+#![2 drawio (1)](https://user-images.githubusercontent.com/93376815/205482165-038bb480-7c60-4bc4-8111-bb2a6f41c1c6.svg)
 
 
